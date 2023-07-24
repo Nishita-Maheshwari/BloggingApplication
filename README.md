@@ -1,10 +1,10 @@
-Building real time RestAPIS for Blogging Application using  SpringBoot,,SpringSecurity,JWT,Spring Data JPA(Hibernate) and MYSQL
-->Creating REST endpoints
-->Complex Db structure JPA Entities
-->Role based Authentication
-->Handling Exceptions
-->Using DTO for Data Transfer
-->Swagger
+Building real time RestAPIS for Blogging Application using  SpringBoot,,SpringSecurity,JWT,Spring Data JPA(Hibernate) and MYSQL      
+->Creating REST endpoints      
+->Complex Db structure JPA Entities      
+->Role based Authentication      
+->Handling Exceptions            
+->Using DTO for Data Transfer      
+->Swagger      
 
 
 
